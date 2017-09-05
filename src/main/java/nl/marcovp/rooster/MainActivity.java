@@ -96,7 +96,7 @@ public class MainActivity extends AppCompatActivity {
                         mPbar.setVisibility(View.INVISIBLE);
 
                     }
-                }, 2000);
+                }, 500);
 
 
             }
